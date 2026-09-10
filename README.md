@@ -239,4 +239,4 @@ This repository serves as the official landing page for Panda Anti-Rootkit. The 
 **Get the most recent version of Panda Anti-Rootkit today!**
 
 ---
-**Last updated:** 2026-09-10 08:43:42 UTC
+**Last updated:** 2026-09-10 13:22:08 UTC
